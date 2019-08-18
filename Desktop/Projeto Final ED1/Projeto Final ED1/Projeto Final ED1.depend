@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1560825283 source:c:\users\matheus\desktop\projeto final ed1\projeto final ed1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\.idea\codeStyles\Project.xml" timestamp="1541880549857" />
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\.idea\gradle.xml" timestamp="1541880607645" />
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\.idea\misc.xml" timestamp="1541880549567" />
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\.idea\modules.xml" timestamp="1541880549719" />
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\.idea\runConfigurations.xml" timestamp="1541880550068" />
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\.idea\workspace.xml" timestamp="1541881103945" />
+    <file path="C:\Users\Matheus\AndroidStudioProjects\Agenda\Agenda.iml" timestamp="1541880549453" />
+  </project-files>
+</conversion>
+
